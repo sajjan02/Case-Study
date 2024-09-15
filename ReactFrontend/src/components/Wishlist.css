@@ -1,0 +1,134 @@
+/* Wishlist page structure */
+.wishlist-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5f5; /* Light gray background */
+}
+
+/* Header styling */
+.wishlist-header {
+  background: url('../assets/wishlist3.png'); /* Myntra's magenta-like color */
+  color: white;
+  text-align: center;
+  padding: 70px 0;
+  width: 100%;
+  height: 30vh;
+}
+
+.wishlist-header h1 {
+  font-size: 2.5em;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Wishlist items container */
+.wishlist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+/* Individual wishlist item */
+.wishlist-item {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 15px;
+  padding: 20px;
+  max-width: 250px;
+  width: 100%;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #ddd;
+}
+
+/* Hover effect for wishlist item */
+.wishlist-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Image styling for wishlist items */
+.wishlist-item-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect for wishlist item image */
+.wishlist-item:hover .wishlist-item-image {
+  transform: scale(1.05);
+}
+
+.wishlist-item-info h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+}
+
+.wishlist-item-info p {
+  font-size: 0.9em;
+  margin: 5px 0;
+  color: #666;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Button styling */
+.wishlist-button {
+  background-color: #ff007f; /* Myntra's magenta color for Delete */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Hover effect for Delete button */
+.wishlist-button:hover {
+  background-color: #e6006c; /* Slightly darker magenta on hover */
+  transform: translateY(-2px);
+}
+
+/* Styling for the Move to Cart button */
+.wishlist-button.move-to-cart {
+  background-color: #00bfae; /* Myntra's teal color for Move to Cart */
+}
+
+.wishlist-button.move-to-cart:hover {
+  background-color: #00a89d; /* Darker teal on hover */
+  transform: translateY(-2px);
+}
+
+/* General styling for the wishlist page */
+.wishlist-page {
+  background-color: #f5f5f5; /* Light gray background */
+}
+
+.wishlist-header {
+  background-color: #ff007f; /* Myntra's magenta color for header */
+}
+
+.wishlist-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.wishlist-item h3, .wishlist-item p {
+  margin: 10px 0;
+  color: #333;
+}
+
+.wishlist-item p {
+  font-size: 0.9rem;
+  color: #666;
+}

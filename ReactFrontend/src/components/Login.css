@@ -1,0 +1,116 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+.login-page {
+    display: flex;
+    height: 100vh;
+}
+
+.left-half {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #faefed; /* Light background color for the left half */
+}
+
+.right-half {
+    flex: 1;
+    background-image: url('../assets/background.jpg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+}
+
+.login-container {
+    background-color: rgba(236, 189, 163, 0.7); /* Semi-transparent background */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: black;
+    width: 400px;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto 20px auto; /* Centers the logo and adds margin below */
+    width: 100px; /* Adjust the width as necessary */
+    height: auto; /* Ensures the logo maintains aspect ratio */
+}
+
+.login-form {
+    background: rgba(255, 248, 248, 0.8);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: black;
+    width: 100%; /* Adjust width to fit within the container */
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #ddd;
+    color: #333;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f25489;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-button:hover {
+    background-color: #ed2366;
+}
+
+.signup-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.signup-button:hover {
+    background-color: #5a6268;
+}
+
+.error-message {
+    color: #ff4d4d;
+    text-align: center;
+    margin-bottom: 20px;
+}

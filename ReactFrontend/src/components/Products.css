@@ -1,0 +1,90 @@
+/* Products.css */
+
+.products-container {
+    padding: 20px;
+    background-color: #fdfdfd; /* Light gray background for the container */
+}
+
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.product-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #fff; /* White background for product cards */
+    text-align: center;
+    padding: 10px;
+    position: relative;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+
+.product-image-container {
+    position: relative;
+}
+
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.wishlist-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+    color: #ff4081; /* Myntra pink color */
+}
+
+.wishlist-icon:hover {
+    color: #e91e63; /* Slightly darker pink on hover */
+}
+
+.product-card h3 {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.product-card p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.product-card button {
+    margin: 5px;
+    padding: 8px 12px;
+    border: none;
+    background-color: #ff4081; /* Myntra pink color */
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    font-size: 0.9rem;
+}
+
+.product-card button:hover {
+    background-color: #e91e63; /* Slightly darker pink on hover */
+}
+
+.product-card button:last-of-type {
+    background-color: #9e9e9e; /* Neutral gray color for add-to-cart button */
+}
+
+.product-card button:last-of-type:hover {
+    background-color: #757575; /* Darker gray on hover */
+}

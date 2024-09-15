@@ -1,0 +1,35 @@
+.profile-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #fdfdfd; /* Matches Products page background */
+}
+
+.profile-container h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #ff3e6c; /* Pink color similar to navbar for consistency */
+}
+
+.profile-container p {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #555;
+}
+
+.profile-container strong {
+  color: #000;
+}
+
+.profile-container p:not(:last-child) {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.logout-button{
+  background-color: #989595;
+  color:#fdfdfd;
+}

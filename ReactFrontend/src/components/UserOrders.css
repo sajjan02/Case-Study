@@ -1,0 +1,70 @@
+/* Your existing styles */
+
+/* Styles for the phone button */
+.phone-button {
+    position: fixed; /* Fixed position */
+    bottom: 20px; /* Distance from the bottom of the viewport */
+    right: 20px; /* Distance from the right of the viewport */
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ff3e6c; /* Change this to your desired background color */
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional: Adds shadow for better visibility */
+    z-index: 1000; /* Ensure the button is on top of other elements */
+  }
+  
+  .phone-icon {
+    margin-right: 8px;
+    font-size: 20px; /* Adjust size as needed */
+  }
+  
+  .phone-text {
+    font-size: 16px; /* Adjust size as needed */
+  }
+  
+  
+
+
+
+/* UserOrders.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.product-info {
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+
+.order-item-image {
+    align-items: center;
+    width: 50px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 50px; /* Ensure image doesn't exceed height */
+    object-fit: contain; /* Ensure image scales well */
+     /* Space between image and text */
+}

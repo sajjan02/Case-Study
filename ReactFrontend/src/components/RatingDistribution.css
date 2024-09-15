@@ -1,0 +1,49 @@
+.rating-distribution {
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.rating-distribution h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.rating-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.rating-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.9em;
+}
+
+.rating-label {
+    width: 70px;
+    font-weight: bold;
+}
+
+.bar-container {
+    flex-grow: 1;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.bar {
+    height: 100%;
+    background-color: #f4c542; /* Yellow color */
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+.rating-count {
+    margin-left: 10px;
+}

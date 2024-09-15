@@ -1,0 +1,139 @@
+/* Navbar styles */
+.custom-navbar {
+    position: fixed; /* Makes the navbar fixed at the top */
+    top: 0; /* Aligns the navbar at the top of the page */
+    width: 100%; /* Ensures the navbar spans the entire width of the page */
+    z-index: 100; /* Ensures the navbar is above other content */
+    background-color: #f25489; /* Myntra-like pink color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+    height: 80px; /* Adjust navbar height */
+}
+
+/* Navbar logo */
+.navbar-logo {
+    width: 100px;  /* Adjust width to make the logo smaller */
+    height: auto;  /* Maintain aspect ratio */
+    border-radius: 50%;  /* Makes the logo circular */
+    object-fit: cover;
+}
+
+/* Brand text */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff; /* White color for brand text to contrast with pink background */
+}
+
+/* Navbar items */
+.navbar-nav {
+    display: flex;
+    flex: 1;
+    justify-content: center; /* Center nav items */
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 15px; /* Space between items */
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #fff; /* White color for nav links to contrast with pink background */
+    text-align: center;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #e83e8c; /* Pink color for text on hover */
+    background-color: #fff; /* White background for the hover effect */
+    border-radius: 4px; /* Optional: rounded corners for the hover effect */
+}
+
+/* Icon styles */
+.icon {
+    font-size: 1.8rem;
+    color: #fff; /* White color for icons */
+    margin-bottom: 5px;
+}
+
+/* Search form */
+.search-form {
+    flex: 2; /* Allow the search bar to grow */
+    max-width: 600px; /* Set a maximum width */
+    margin: 0 20px; /* Center it relative to other elements */
+}
+
+.input-group {
+    width: 100%;
+}
+
+.form-control {
+    border-radius: 20px 0 0 20px;
+    box-shadow: none;
+    border: 1px solid #ddd; /* Light border for the input */
+}
+
+.input-group-append .btn {
+    border-radius: 0 20px 20px 0;
+    background-color: #e288a9; /* Light pink color for button */
+    border: none;
+    color: #fff; /* White color for button text */
+}
+
+/* Ensure the profile section is at the far right */
+.right-profile-link {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Pushes the profile section to the rightmost corner */
+}
+
+.profile-button {
+    margin-left: 298px;
+    background: none;
+    border: none;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    color: #fff; /* White color for profile button text */
+    transition: color 0.3s ease;
+}
+
+.profile-button:hover {
+    color: #e83e8c; /* Pink color on hover */
+}
+
+/* Profile icon */
+.profile-icon {
+    font-size: 1.8rem;
+    color: #fff; /* White color for profile icon */
+    margin-right: 8px;
+}
+
+/* Adjust padding to ensure content is not hidden behind the fixed navbar */
+body {
+    padding-top: 80px; /* Adjust this value according to the navbar height */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .search-form {
+        margin: 10px 0;
+        max-width: 100%;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .right-profile-link {
+        margin-left: 0; /* Adjust margin for smaller screens if needed */
+    }
+}

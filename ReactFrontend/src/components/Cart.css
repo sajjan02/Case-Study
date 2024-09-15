@@ -1,0 +1,190 @@
+/* Cart Container */
+.cart-container {
+  padding: 20px;
+  background-color: #f5f5f5; /* Light gray background */
+}
+
+/* Cart Items Grid */
+.cart-items-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* Individual Cart Item */
+.cart-item {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff; /* White background for a clean look */
+  justify-content: space-between;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cart-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Cart Item Image */
+.cart-item img {
+  max-width: 100px;
+  height: auto;
+  border-radius: 8px;
+  margin-left: 15px;
+}
+
+/* Cart Item Details */
+.cart-item-details {
+  flex-grow: 1;
+  margin-left: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.cart-item-details h3 {
+  font-size: 1.1em;
+  color: #333;
+}
+
+.cart-item-details p {
+  color: #666;
+  font-size: 0.9em;
+}
+
+/* Quantity Controls */
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantity-controls button {
+  background-color: #009f8d; /* Myntra's magenta color */
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.quantity-controls button:hover {
+  background-color: #e6006c; /* Darker magenta on hover */
+}
+
+/* Remove Button */
+.remove-button {
+  background-color: #dc3545; /* Red for delete */
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+}
+
+.remove-button:hover {
+  background-color: #766163;
+}
+
+/* Place Order Button */
+.place-order-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 15px 30px;
+  background-color: #f25489; /* Myntra's magenta color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.place-order-button:hover {
+  background-color: #e6006c; /* Darker magenta on hover */
+}
+
+/* Address Management Section */
+.address-management {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff; /* White for a clean background */
+}
+
+/* Input Fields in Address Management */
+.address-management input {
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button Styling for Address Management */
+.address-management button {
+  padding: 10px 20px;
+  background-color: #f25489; /* Myntra's magenta color */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+}
+
+.address-management button:hover {
+  background-color: #e6006c;
+}
+
+/* Address List Styling */
+ul.address-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul.address-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff; /* White background */
+}
+
+ul.address-list li label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Buttons in Address List */
+ul.address-list li button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #00bfae; /* Teal for action buttons */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+ul.address-list li button:hover {
+  background-color: #009f8d;
+}
+
+ul.address-list li button.delete-btn {
+  background-color: #dc3545; /* Red for delete buttons */
+}
+
+ul.address-list li button.delete-btn:hover {
+  background-color: #c82333;
+}

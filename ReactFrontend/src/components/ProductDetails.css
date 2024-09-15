@@ -1,0 +1,206 @@
+/* Container for the product details page */
+.product-details-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif; /* Modern font similar to Myntra */
+    background-color: #fdfdfd; /* Consistent background */
+}
+
+/* Title of the product details section */
+.product-details-container h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #ff3f6c; /* Myntra's pink tone for headings */
+}
+
+/* Styling for product information */
+.product-info {
+    border: 1px solid #ececec; /* Softer border */
+    border-radius: 10px; /* Rounded corners for a sleek look */
+    padding: 16px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
+}
+
+.product-info h3 {
+    font-size: 24px; /* Product name styling */
+    margin-bottom: 10px;
+    color: #333333;
+    font-weight: bold;
+}
+
+.product-info p {
+    font-size: 16px;
+    color: #666666;
+    line-height: 1.6;
+    padding-left: 100px;
+}
+
+/* Star rating styling */
+.product-info .star {
+    color: #ffb400; /* Gold color for stars */
+    font-size: 18px;
+}
+
+/* Styling for review list */
+.review-list {
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-bottom: 30px;
+}
+
+.review-list h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #555555;
+}
+
+.review-details {
+    border-bottom: 1px solid #ececec;
+    padding: 10px 0;
+}
+
+.review-details p {
+    font-size: 1.1em;
+    color: #666666;
+    margin: 5px 0;
+}
+
+/* Add review section */
+.add-review-section {
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.add-review-section h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #555555;
+}
+
+.rating-input, .comment-input {
+    margin-bottom: 15px;
+}
+
+.rating-input label, .comment-input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.rating-input select, .comment-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fdfdfd;
+}
+
+.comment-input input {
+    height: 40px;
+}
+
+/* Button styling */
+button {
+    background-color:#ff3f6c; /* Myntra's signature pink for the button */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 24px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #e9365d; /* Slightly darker pink for hover effect */
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+
+
+.product-info .star {
+    color: #ffb400; /* Gold color for stars */
+    font-size: 18px; /* Slightly larger size for stars */
+}
+
+.product-info .star.full {
+    color: #ffb400; /* Full stars */
+}
+
+.product-info .star.half {
+    color: #ffb400; /* Half stars */
+}
+
+.product-info .star.empty {
+    color: #ddd; /* Empty stars */
+}
+
+
+
+/* Star rating styles */
+.star {
+    color: gold;
+    font-size: 1.2em;
+    margin-right: 2px;
+}
+
+.star.full {
+    color: gold;
+}
+
+.star.half {
+    color: gold;
+}
+
+.star.empty {
+    color: #ddd;
+}
+
+/* Add review section styles */
+.add-review-section {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.add-review-section h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.rating-input, .comment-input {
+    margin-bottom: 15px;
+}
+
+.rating-input label, .comment-input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.rating-input select, .comment-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.comment-input input {
+    height: 40px;
+}
+
+

@@ -1,0 +1,69 @@
+/* Container for the entire checkout page */
+.checkout-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fdfdfd; /* Background color consistent with the product page */
+}
+
+/* Styling the message box */
+.message-container {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px; /* Slightly more rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Softer shadow */
+}
+
+/* Title for the success message */
+.title {
+  font-size: 2.5rem;
+  color: #32be34; /* Myntra's signature pink color */
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Subtitle for additional information */
+.subtitle {
+  font-size: 1.2rem;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+/* Info text below the subtitle */
+.info {
+  font-size: 1rem;
+  color: #555555;
+  margin-bottom: 30px;
+}
+
+/* Button styling */
+.button {
+  background-color: #f25489; /* Myntra's pink color */
+  color: #ffffff;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 25px; /* Fully rounded button for modern look */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.button:hover {
+  background-color: #e6325b; /* Darker pink on hover */
+}
+
+/* Notification and phone input styling */
+.notification-container {
+  margin-top: 20px;
+}
+
+.phone-input {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 8px; /* Slightly rounded for consistency */
+  border: 1px solid #ccc;
+  width: 200px;
+}
