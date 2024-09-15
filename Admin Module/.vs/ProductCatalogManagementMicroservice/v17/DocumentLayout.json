@@ -1,0 +1,1128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\report\\productreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\report\\productreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\data\\retailmanagement1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:data\\retailmanagement1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\productcatalogmanagementmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:productcatalogmanagementmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\epplus\\7.3.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shipments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shipments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shipments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shipments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\discounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\discounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\shipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\shipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\discounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\discounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\discounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\discounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|c:\\users\\prathiksajjanks\\desktop\\microservices_casestudy\\adminmanagementmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{718496B1-B2B9-46A7-8723-DDFAD0B49934}|ProductCatalogManagementMicroservice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAQwIYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:34:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:06:13.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:25:01.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T17:36:14.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T19:00:13.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:59:10.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:45:59.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:34:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:12:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:32:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T06:38:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:26:52.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:35:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:14:37.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product1.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Product1.cs",
+              "RelativeDocumentMoniker": "Models\\Product1.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Product1.cs",
+              "RelativeToolTip": "Models\\Product1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:18:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAQwI0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:10:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:42:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:02:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:39:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:32:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Report\\ProductReport.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\ProductReport.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Report\\ProductReport.cshtml",
+              "RelativeToolTip": "Views\\Report\\ProductReport.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:35:18.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RetailManagement1Context.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Data\\RetailManagement1Context.cs",
+              "RelativeDocumentMoniker": "Data\\RetailManagement1Context.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Data\\RetailManagement1Context.cs",
+              "RelativeToolTip": "Data\\RetailManagement1Context.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA3wDYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:06:00.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:47:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductCatalogManagementMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\ProductCatalogManagementMicroservice.csproj",
+              "RelativeDocumentMoniker": "ProductCatalogManagementMicroservice.csproj",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\ProductCatalogManagementMicroservice.csproj",
+              "RelativeToolTip": "ProductCatalogManagementMicroservice.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T17:05:14.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:07:02.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ShipmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipmentsController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ShipmentsController.cs",
+              "RelativeToolTip": "Controllers\\ShipmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:47:47.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "Controllers\\ProductApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:14:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:50:14.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "Controllers\\DiscountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:44:43.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:06:29.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:13:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:08:17.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T14:59:36.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:18:12.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\epplus\\7.3.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.3.1\\readme.txt",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\epplus\\7.3.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.3.1\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T07:37:29.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:44:30.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:14:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:37:55.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Shipments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:36:06.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:14:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Shipments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:43:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:49:40.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:51:07.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T06:38:45.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:45:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shipments\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:35:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Delete.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:37:06.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:06:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Views\\Category\\Details.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:06:39.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:07:28.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shipments\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:37:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Shipments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Shipments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:33:59.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:44:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAIBJwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:13:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:26:11.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:21:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:44:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:35:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T13:07:12.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Discounts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:36:40.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:13:19.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:38:46.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T18:14:04.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T17:36:57.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T17:38:01.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T18:24:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T17:38:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:14:41.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\Microservices_CaseStudy\\AdminManagementMicroservice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T17:06:14.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

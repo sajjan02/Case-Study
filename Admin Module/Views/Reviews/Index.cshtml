@@ -1,0 +1,120 @@
+﻿@model IEnumerable<ProductCatalogManagementMicroservice.Models.Review>
+
+@{
+    ViewData["Title"] = "Review List";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Review List</h2>
+
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-primary">Create New Review</a>
+        <a asp-action="ExportToExcel" class="btn btn-success">Export to Excel</a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Rating)</th>
+                    <th>@Html.DisplayNameFor(model => model.Comment)</th>
+                    <th>@Html.DisplayNameFor(model => model.ReviewDate)</th>
+                    <th>@Html.DisplayNameFor(model => model.Product)</th>
+                    <th>@Html.DisplayNameFor(model => model.User)</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Rating</td>
+                        <td>@item.Comment</td>
+                        <td>
+                            @if (item.ReviewDate.HasValue)
+                            {
+                                @item.ReviewDate.Value.ToString("MMMM d, yyyy")
+                            }
+                            else
+                            {
+                                <span class="text-muted">Date not available</span>
+                            }
+                        </td>
+                        <td>@item.Product.ProductId</td>
+                        <td>@item.User.UserId</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@item.ReviewId" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.ReviewId" class="btn btn-info btn-sm">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.ReviewId" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    .table thead th {
+        background-color: #343a40;
+        color: white;
+    }
+
+    .table td, .table th {
+        vertical-align: middle;
+    }
+
+    .btn-sm {
+        margin-right: 5px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border-color: #ffc107;
+    }
+
+        .btn-warning:hover {
+            background-color: #e0a800;
+            border-color: #d39e00;
+        }
+
+    .btn-info {
+        background-color: #17a2b8;
+        border-color: #17a2b8;
+    }
+
+        .btn-info:hover {
+            background-color: #138496;
+            border-color: #117a8b;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+</style>

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyanshNama\\AppData\\Local\\Temp\\0a436435-d329-486e-aa1c-d90ae9a604a0_MyOrderMicroservices (1).zip.4a0\\MyOrderMicroservices\\Controllers\\CartItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\models\\addressclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:models\\addressclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\models\\addressclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:models\\addressclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\data\\retailmanagement1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:data\\retailmanagement1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\addressmicroservice\\addressmicroservice\\addressmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68E4E2A2-28BC-45A4-9207-45CC62441F5A}|AddressMicroservice.csproj|solutionrelative:addressmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:49:17.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\AppData\\Local\\Temp\\0a436435-d329-486e-aa1c-d90ae9a604a0_MyOrderMicroservices (1).zip.4a0\\MyOrderMicroservices\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0a436435-d329-486e-aa1c-d90ae9a604a0_MyOrderMicroservices (1).zip.4a0\\MyOrderMicroservices\\Controllers\\CartItemsController.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\AppData\\Local\\Temp\\0a436435-d329-486e-aa1c-d90ae9a604a0_MyOrderMicroservices (1).zip.4a0\\MyOrderMicroservices\\Controllers\\CartItemsController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0a436435-d329-486e-aa1c-d90ae9a604a0_MyOrderMicroservices (1).zip.4a0\\MyOrderMicroservices\\Controllers\\CartItemsController.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:32:45.24Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddressClass2.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\AddressClass2.cs",
+              "RelativeDocumentMoniker": "Models\\AddressClass2.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\AddressClass2.cs",
+              "RelativeToolTip": "Models\\AddressClass2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:04:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressClass.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\AddressClass.cs",
+              "RelativeDocumentMoniker": "Models\\AddressClass.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\AddressClass.cs",
+              "RelativeToolTip": "Models\\AddressClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:22:11.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:10:04.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAmwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:40:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:38:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T12:38:33.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RetailManagement1Context.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Data\\RetailManagement1Context.cs",
+              "RelativeDocumentMoniker": "Data\\RetailManagement1Context.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\Data\\RetailManagement1Context.cs",
+              "RelativeToolTip": "Data\\RetailManagement1Context.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA1wD4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:38:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddressMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\AddressMicroservice.csproj",
+              "RelativeDocumentMoniker": "AddressMicroservice.csproj",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\AddressMicroservice\\AddressMicroservice\\AddressMicroservice.csproj",
+              "RelativeToolTip": "AddressMicroservice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T12:37:16.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

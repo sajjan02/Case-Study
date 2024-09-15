@@ -1,0 +1,80 @@
+﻿@model ProductCatalogManagementMicroservice.Models.Review
+
+@{
+    ViewData["Title"] = "Review Details";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Review Details</h1>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Review Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Rating)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Rating)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Comment)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Comment)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.ReviewDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @if (Model.ReviewDate.HasValue)
+                    {
+                        @Model.ReviewDate.Value.ToString("MMMM d, yyyy")
+                    }
+                    else
+                    {
+                        <span>No date available</span>
+                    }
+                </dd>
+               
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Product)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Product.ProductId)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.User)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.User.UserId)
+                </dd>
+            </dl>
+        </div>
+        <div class="card-footer text-right">
+            <a asp-action="Edit" asp-route-id="@Model.ReviewId" class="btn btn-warning">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .card-footer {
+        background-color: #f8f9fa;
+    }
+
+    .font-weight-bold {
+        font-weight: 500;
+    }
+</style>

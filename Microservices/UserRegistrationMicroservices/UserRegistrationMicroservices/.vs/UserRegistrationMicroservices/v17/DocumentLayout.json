@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\services\\sendemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:services\\sendemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\data\\retailmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:data\\retailmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\userregistrationmicroservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:userregistrationmicroservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\userregistrationmicroservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:userregistrationmicroservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|c:\\users\\divyanshnama\\onedrive - planview, inc\\desktop\\case study\\userregistrationmicroservices (2)\\userregistrationmicroservices\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1CDA2-D0AA-4607-BA54-E1724DE91A73}|UserRegistrationMicroservices.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "Models\\UserClass.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\UserClass.cs",
+              "RelativeToolTip": "Models\\UserClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:36:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDUAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:46:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:39:51.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistrationMicroservices.http",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\UserRegistrationMicroservices.http",
+              "RelativeDocumentMoniker": "UserRegistrationMicroservices.http",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\UserRegistrationMicroservices.http",
+              "RelativeToolTip": "UserRegistrationMicroservices.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T12:50:46.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RetailManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Data\\RetailManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\RetailManagementContext.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Data\\RetailManagementContext.cs",
+              "RelativeToolTip": "Data\\RetailManagementContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:39:40.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:41:59.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Services\\SendEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\SendEmailService.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Services\\SendEmailService.cs",
+              "RelativeToolTip": "Services\\SendEmailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:02:22.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T11:40:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:50:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegistrationMicroservices.csproj",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\UserRegistrationMicroservices.csproj",
+              "RelativeDocumentMoniker": "UserRegistrationMicroservices.csproj",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\UserRegistrationMicroservices.csproj",
+              "RelativeToolTip": "UserRegistrationMicroservices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T11:32:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:41:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DivyanshNama\\OneDrive - Planview, Inc\\Desktop\\Case Study\\UserRegistrationMicroservices (2)\\UserRegistrationMicroservices\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:12:51.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

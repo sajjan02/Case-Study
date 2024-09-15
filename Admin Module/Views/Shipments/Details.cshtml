@@ -1,0 +1,107 @@
+﻿@model ProductCatalogManagementMicroservice.Models.Shipment
+
+@{
+    ViewData["Title"] = "Shipment Details";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Shipment Details</h1>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Shipment Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.ShipmentDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @if (Model.ShipmentDate.HasValue)
+                    {
+                        @Model.ShipmentDate.Value.ToString("MMMM d, yyyy")
+                    }
+                    else
+                    {
+                        <span class="text-muted">Not available</span>
+                    }
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.DeliveryDate)
+                </dt>
+                <dd class="col-sm-9">
+           @*          @Html.DisplayFor(model => model.DeliveryDate.ToString("MMMM d, yyyy")) *@
+                    @if (Model.DeliveryDate.HasValue)
+                    {
+                        @Model.DeliveryDate.Value.ToString("MMMM d, yyyy")
+                    }
+                    else
+                    {
+                        <span class="text-muted">Not available</span>
+                    }
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.ShippingStatus)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ShippingStatus)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Carrier)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Carrier)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Order)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Order.OrderId)
+                </dd>
+            </dl>
+        </div>
+        <div class="card-footer text-right">
+            <a asp-action="Edit" asp-route-id="@Model?.ShipmentId" class="btn btn-warning">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .card-footer {
+        background-color: #f8f9fa;
+    }
+
+    .font-weight-bold {
+        font-weight: 500;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border-color: #ffc107;
+    }
+
+        .btn-warning:hover {
+            background-color: #e0a800;
+            border-color: #d39e00;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+</style>

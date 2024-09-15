@@ -1,0 +1,115 @@
+﻿@model ProductCatalogManagementMicroservice.Models.Shipment
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Delete Shipment</h1>
+
+    <div class="card">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0">Confirm Deletion</h4>
+        </div>
+        <div class="card-body">
+            <h5 class="mb-4">Are you sure you want to delete this shipment?</h5>
+            <div>
+                <h4 class="mb-3">Shipment Details</h4>
+                <dl class="row">
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.ShipmentDate)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @* @Model.ShipmentDate.ToString("MMMM d, yyyy") *@
+                        @if (Model.ShipmentDate.HasValue)
+                        {
+                            @Model.ShipmentDate.Value.ToString("MMMM d, yyyy")
+                        }
+                        else
+                        {
+                            <span>No date available</span>
+                        }
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.DeliveryDate)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @* @Model.DeliveryDate.ToString("MMMM d, yyyy") *@
+                        @if (Model.DeliveryDate.HasValue)
+                        {
+                            @Model.DeliveryDate.Value.ToString("MMMM d, yyyy")
+                        }
+                        else
+                        {
+                            <span>No date available</span>
+                        }
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.ShippingStatus)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Model.ShippingStatus
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.Carrier)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Model.Carrier
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.Order)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Model.Order.OrderId
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <div class="card-footer text-right">
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ShipmentId" />
+                <button type="submit" class="btn btn-danger">Delete</button>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .card-footer {
+        background-color: #f8f9fa;
+    }
+
+    .font-weight-bold {
+        font-weight: 500;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+</style>

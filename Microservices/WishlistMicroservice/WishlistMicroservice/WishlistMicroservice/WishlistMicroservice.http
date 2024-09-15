@@ -1,0 +1,6 @@
+@WishlistMicroservice_HostAddress = http://localhost:5010
+
+GET {{WishlistMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

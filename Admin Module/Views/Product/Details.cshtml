@@ -1,0 +1,38 @@
+﻿@model ProductCatalogManagementMicroservice.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>@Model.Name</h3>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+
+            <dt class="col-sm-3">Price:</dt>
+            <dd class="col-sm-9">
+                @if (Model.Price.HasValue)
+                {
+                    @Model.Price.Value.ToString("C")
+                }
+                else
+                {
+                    <span class="text-muted">Not available</span>
+                }
+            </dd>
+
+            <dt class="col-sm-3">Inventory Count:</dt>
+            <dd class="col-sm-9">@Model.InventoryCount</dd>
+
+
+        </dl>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

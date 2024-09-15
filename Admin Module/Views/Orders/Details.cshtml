@@ -1,0 +1,74 @@
+﻿@model ProductCatalogManagementMicroservice.Models.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Order Details</h2>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Order Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-4 font-weight-bold">Order ID</dt>
+                <dd class="col-sm-8">@Model.OrderId</dd>
+
+                <dt class="col-sm-4 font-weight-bold">User ID</dt>
+                <dd class="col-sm-8">@Model.UserId</dd>
+
+                <dt class="col-sm-4 font-weight-bold">Order Date</dt>
+                <dd class="col-sm-8">
+                    @if (Model.OrderDate.HasValue)
+                    {
+                        @Model.OrderDate.Value.ToString("MMMM d, yyyy")
+                    }
+                    else
+                    {
+                        <span class="text-muted">Not available</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-4 font-weight-bold">Total Amount</dt>
+                <dd class="col-sm-8">
+                    @if (Model.TotalAmount.HasValue)
+                    {
+                        @Model.TotalAmount.Value.ToString("C")
+                    }
+                    else
+                    {
+                        <span class="text-muted">Not available</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-4 font-weight-bold">Status</dt>
+                <dd class="col-sm-8">@Model.Status</dd>
+            </dl>
+        </div>
+        <div class="card-footer text-right">
+            <a asp-action="Edit" asp-route-id="@Model.OrderId" class="btn btn-primary">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .card-footer {
+        background-color: #f8f9fa;
+    }
+
+    .font-weight-bold {
+        font-weight: 500;
+    }
+</style>

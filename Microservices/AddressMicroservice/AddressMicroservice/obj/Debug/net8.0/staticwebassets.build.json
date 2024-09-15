@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tXnmX0+DRIwiWfZdv/IjwOc98Ux5o64LNi8saQoMkPs=",
+  "Source": "AddressMicroservice",
+  "BasePath": "_content/AddressMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

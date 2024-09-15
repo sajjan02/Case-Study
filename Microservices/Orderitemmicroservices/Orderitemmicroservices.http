@@ -1,0 +1,6 @@
+@Orderitemmicroservices_HostAddress = http://localhost:5074
+
+GET {{Orderitemmicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
