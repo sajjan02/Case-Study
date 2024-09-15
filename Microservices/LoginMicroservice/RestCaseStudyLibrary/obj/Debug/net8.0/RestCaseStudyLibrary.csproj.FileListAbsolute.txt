@@ -1,0 +1,58 @@
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.deps.json
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfoInputs.cache
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfo.cs
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\refint\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\ref\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.runtimeconfig.json
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.AssemblyReference.cache
+C:\Users\PrathikSajjanKS\source\repos\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.genruntimeconfig.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.deps.json
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.runtimeconfig.json
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.AssemblyReference.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfoInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfo.cs
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\refint\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.genruntimeconfig.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\ref\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.deps.json
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.runtimeconfig.json
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.AssemblyReference.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfoInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfo.cs
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.sourcelink.json
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\refint\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.genruntimeconfig.cache
+C:\Users\PrathikSajjanKS\Desktop\Case Study Assignment\Microservices\RestCaseStudy\RestCaseStudyLibrary\obj\Debug\net8.0\ref\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.deps.json
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.runtimeconfig.json
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\bin\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.AssemblyReference.cache
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfoInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.AssemblyInfo.cs
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.sourcelink.json
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\refint\RestCaseStudyLibrary.dll
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.pdb
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\RestCaseStudyLibrary.genruntimeconfig.cache
+C:\Users\PrathikSajjanKS\Desktop\Microservice\LoginMicroservice\RestCaseStudyLibrary\obj\Debug\net8.0\ref\RestCaseStudyLibrary.dll

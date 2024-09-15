@@ -1,0 +1,6 @@
+@RestCaseStudyAPI_HostAddress = http://localhost:5003
+
+GET {{RestCaseStudyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
